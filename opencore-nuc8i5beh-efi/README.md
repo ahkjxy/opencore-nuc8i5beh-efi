@@ -1,10 +1,11 @@
 # NUC8I5BEH Hackintosh (OpenCore EFI)
 
-![Hackintosh](about.png)
-![CONFIG](net.png)
+![Hackintosh](about.png) 
 
 ### 说明
- - NUC8I5BEH原装，没有硬改，系统直装替换EFI后直接没问题：无线正常、蓝牙正常
+
++ NUC8I5BEH原装，没有硬改，系统直装替换EFI后直接没问题：无线正常、蓝牙正常
+
 ![bluetooth](bluetooth.png)
 
 ### 配置
